@@ -1,0 +1,12 @@
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.10</version>
+    <scope>compile</scope>
+</dependency>
+
+<properties>
+<maven.compiler.source>17</maven.compiler.source>
+<maven.compiler.target>17</maven.compiler.target>
+</properties>
+        <!-- 我的是jdk13，所以设置13  jdk1.8的可以直接将其换成1.8--!>
